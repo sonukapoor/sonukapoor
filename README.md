@@ -6,9 +6,19 @@ I'm an accomplished **Full-Stack Developer** with a passion for **web technologi
 
 I also have a strong presence in the **community** through podcasts, articles, meetups, and conference talks. My work has impacted thousands of developers, helping them improve their skills and stay updated with the latest advancements in web development.
 
-In recognition of my contributions, I was honored with the **Microsoft MVP Award** six times in a row for my work in the **ASP.NET** and **web development** community.
+--- 
+
+## 🏆 MVP Award Recipient
+
+I am honored to have received the **MVP (Most Valuable Professional) Award** six times in a row for my contributions to the **developer community**. This recognition reflects my commitment to sharing knowledge, mentoring fellow developers, and advancing open-source projects, particularly within the **Angular** ecosystem.
 
 ---
+
+## 🗣️ Top Voice in Web Development
+
+I am proud to be recognized as a **Top Voice in Web Development** on LinkedIn, where I actively share insights, tips, and industry trends with a growing audience. My posts aim to inspire and educate fellow developers, fostering a vibrant community that thrives on collaboration and continuous learning.
+
+--- 
 
 ## 🎙️ Podcasts
 

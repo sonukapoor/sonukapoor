@@ -24,7 +24,7 @@ I am proud to be recognized as a **Top Voice in Web Development** on LinkedIn, w
 
 ### [Angular Catchup](https://angular-catch-up.podbean.com/)
 
-🎧 **Co-founder Host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
+🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
 - Angular SSR Deep Dive with Jessica Janiuk - Coming soon.  
   Learn about the benefits and challenges of implementing Server-Side Rendering in Angular.

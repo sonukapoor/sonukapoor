@@ -10,7 +10,9 @@ I also have a strong presence in the **community** through podcasts, articles, m
 
 ## 🎙️ Podcasts
 
-🎧 **Host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski** and **Jessica Janiuk** 
+### [Angular Catchup](https://angular-catch-up.podbean.com/)
+
+🎧 **Co-founder Host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski** and **Jessica Janiuk** 
 
 - Angular SSR Deep Dive with Jessica Janiuk - Comming soon.  
   Learn about the benefits and challenges of implementing Server-Side Rendering in Angular.
@@ -24,6 +26,10 @@ I also have a strong presence in the **community** through podcasts, articles, m
 - [Signals with Pawel Kozlowski from the Angular Team](https://angular-catch-up.podbean.com/e/angular-catch-up-signals/)  
   We discuss what Signals are, their best practices, capabilities, challenges, and their future in Angular development. Pawel shares how Signals enhance app architecture and tackle real-world scenarios. Whether you're new to Signals or an experienced Angular developer, this episode offers valuable insights on using Signals effectively in your projects.
   
+## [This is Tech Talks](https://www.youtube.com/@ThisisTechTalks)
+
+🎧 **Co-host of This is Tech is Teck Talks** - A podcast that I co-host with Santosh Yadav. This is Tech Talks is a live talk show in English with guests discussing a wide range of technologies. See the channel for all available videos.
+
 ---
 
 ## ✍️ Articles
@@ -34,21 +40,27 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
    This article covers how to use custom reactive forms with the ControlValueAccessor to disable controls.
 
 - 📝 [Boosting Angular Performance with @defer and Lazy Loading](https://dev.to/this-is-angular/boosting-angular-performance-with-defer-and-lazy-loading-40f3)
+   
    This article covers performance optimization techniques using Angular’s `@defer` directive, including examples and benefits like faster load times and better user experiences.
 
 - 📝 [The Importance of Upgrading Frameworks: A Case for Angular](https://dev.to/this-is-angular/the-importance-of-upgrading-frameworks-a-case-for-angular-3nc8)  
+   
    Focuses on why upgrading frameworks is crucial, especially from a security and compliance perspective, to maintain a competitive and secure project.
 
 - 📝 [Boosting Angular App Performance Using NgOptimizedImage](https://dev.to/this-is-angular/boosting-angular-app-performance-using-ngoptimizedimage-20l2)
+   
    Discusses how to improve app performance by leveraging the `NgOptimizedImage` directive for better image optimization and lazy loading.
 
 - 📝 [Streamlining Communication: New Signals API in Angular 17.3](https://dev.to/this-is-angular/streamlining-communication-new-signals-api-in-angular-173-2935)
+   
    Introduces the new Signals API, explaining how to streamline communication between components in Angular applications.
 
 - 📝 [Testing Animations in Angular: A Comprehensive Guide](https://dev.to/this-is-angular/testing-animations-in-angular-a-comprehensive-guide-14fg)
+   
    A guide to testing Angular animations to ensure a smooth and bug-free user experience.
 
 - 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://dev.to/this-is-angular/unit-testing-in-angular-170l)
+   
    A comprehensive guide to writing unit tests for Angular applications, emphasizing best practices and useful tools for more maintainable and reliable code.
 
 ---
@@ -57,15 +69,18 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
 
-- 🎙️ **NgOptimizedImage - Enhancing Performance and User Experience in Angular** at **Angular Tiny Conf**  
-  _Focused on the latest features of Angular and how to improve image handling to make apps faster._
+- 🎙️ [NgOptimizedImage - Enhancing Performance and User Experience in Angular at Angular Tiny Conf](https://www.youtube.com/watch?v=nVcerb1tOUA&t=8299s)
+    
+    Focused on the latest features of Angular and how to improve image handling to make apps faster.
 
-- 🎙️ **Optimizing Angular Applications - Techniques for Performance Excellence**  
-  _Shared performance tips, from lazy loading to using CDNs, and optimizing complex apps._
+- 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at Angular Air](https://www.youtube.com/watch?v=0Caspwa_8LI)
 
-- 📹 [Latest Presentation on YouTube](https://www.youtube.com/watch?v=[Your_Link])
+- 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at This is Meetup](https://www.youtube.com/watch?v=6etUQOPe7nU)
+  
+  Shared performance tips, from lazy loading to using CDNs, and optimizing complex apps.
 
-- [Latest Episode with Joshua Chris Ofurunna](https://www.youtube.com/watch?v=[Your_Link])  
+- 🎙️ [Angular Deep Dive and Expert Insights: Interview with Sonu Kapoor, Senior Angular Developer](https://www.youtube.com/watch?v=0xTvAdlor-w)  
+  
   We discussed Angular’s future, common pitfalls, and how to avoid them!
 
 ---
@@ -79,29 +94,29 @@ I’m also the **Founder and Co-host** of **This_IsMeetup**, a monthly online ev
 **Upcoming Meetup Recordings:**
 
 - 📹 Growing an Open Culture in Open Source  
-  _Guest speaker: **Lars Gyrup Brink Nielsen** will be speaking about how to grow with Open Source._
+  Guest speaker: **Lars Gyrup Brink Nielsen** will be speaking about how to grow with Open Source.
 
 - 📹 Nitro powered full-stack Angular applications
-  _Guest speaker: **Gerome Grignon** will be speaking about Nitro powered Angular Applications - Maybe AnalogJs?._
+  Guest speaker: **Gerome Grignon** will be speaking about Nitro powered Angular Applications - Maybe AnalogJs?.
 
 **Past Meetup Recordings:**
 
 - 📹 [Angular 18 - What’s New and Exciting?](https://youtu.be/2N6tlM57ops?si=8f2hjYc0vG1PbriS)  
-  _Guest speaker: **Sashikumar Yadav** dives into hands-on examples of Angular 18 features._
+  Guest speaker: **Sashikumar Yadav** dives into hands-on examples of Angular 18 features.
 
 - 📹 [Enhancing Angular Apps: A Deep Dive into SSR and Data Hydration](https://www.youtube.com/watch?v=Ihgp18OfeWY&list=PLJ0-lozxlB2KofRjSuB8XUE_Z2D6aTu-l&index=2&pp=iAQB)  
-  _Guest speaker: **Mateusz Stefanczyk** shows us the power of SSR._
+  Guest speaker: **Mateusz Stefanczyk** shows us the power of SSR.
 
 - 📹 [Enhancing Performance and User Experience in Angular](https://youtu.be/2N6tlM57ops?si=8f2hjYc0vG1PbriS)  
-  _My talk where I speak about quick performance enhancements in Angular._
+  My talk where I speak about quick performance enhancements in Angular.
 
 ---
 
 ## 🌐 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/[Your_Link])
-- 🐦 [Twitter](https://twitter.com/[Your_Link])
-- 🎙️ [YouTube](https://www.youtube.com/[Your_Channel])
+- 💼 [LinkedIn](https://linkedin.com/in/sonu-kapoor)
+- 🐦 [Twitter](https://twitter.com/sonukapoor1978)
+- 🎙️ [YouTube](https://www.youtube.com/@ThisisTechTalks)
 - ✍️ [Dev.to](https://dev.to/sonukapoor)
 
 Feel free to reach out or follow me to stay updated on **Angular**, **JavaScript**, and **performance optimization**!

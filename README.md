@@ -20,6 +20,14 @@ I am proud to be recognized as a **Top Voice in Web Development** on LinkedIn, w
 
 --- 
 
+## 🌍 Open Source Contributions
+
+I am actively involved in the open-source community, particularly with contributions to **Angular**, where I co-authored features like Typed Forms, enhancing developer experiences and application robustness. In fact, I am in the top 100 list of contributors with over [100 pull requests](https://github.com/angular/angular/commits?author=sonukapoor). 
+
+Additionally, I contribute to **AnalogJs**, a framework designed to simplify and streamline server-rendered applications, helping developers create high-performance web experiences with ease. My commitment to open-source reflects my passion for collaboration and continuous improvement in the developer ecosystem.
+
+--- 
+
 ## 🎙️ Podcasts
 
 ### [Angular Catchup](https://angular-catch-up.podbean.com/)

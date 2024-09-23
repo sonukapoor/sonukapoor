@@ -34,7 +34,7 @@ Additionally, I contribute to **AnalogJs**, a framework designed to simplify and
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
-- Angular SSR Deep Dive with Jessica Janiuk - Coming soon.  
+- [Angular SSR Deep Dive with Jessica Janiuk](https://angular-catch-up.podbean.com/e/angular-catch-up-episode-4-a-fresh-take-on-the-future-of-ssr/)
   Learn about the benefits and challenges of implementing Server-Side Rendering in Angular.
 
 - [Unpacking SignalStore - The Future of Reactive State Management in Angular](https://angular-catch-up.podbean.com/e/unpacking-signalstore-the-future-of-reactive-state-management-in-angular/)  

@@ -35,7 +35,7 @@ Additionally, I contribute to **AnalogJs**, a framework designed to simplify and
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
 - [Angular SSR Deep Dive with Jessica Janiuk](https://angular-catch-up.podbean.com/e/angular-catch-up-episode-4-a-fresh-take-on-the-future-of-ssr/)
-  Learn about the benefits and challenges of implementing Server-Side Rendering in Angular.
+  In this fantastic episode, we had the pleasure of hosting Jessica Janiuk from the Angular Team! We explored all things SSR and Hydration in Angular, uncover best practices, tackle the challenges of scaling SSR applications, AnalogJS support and more!
 
 - [Unpacking SignalStore - The Future of Reactive State Management in Angular](https://angular-catch-up.podbean.com/e/unpacking-signalstore-the-future-of-reactive-state-management-in-angular/)  
   In this episode, we unpack SignalStore, the future of reactive state management in Angular! This time, we had the pleasure of hosting Alex Okrushko and Marko Stanimirović from the NgRx team, who shared amazing insights on SignalStore and utilities. They delved into key functionalities; plus, they offered practical tips, best practices, and shared stories about their collaboration with the Angular Team.

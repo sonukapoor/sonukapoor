@@ -28,6 +28,12 @@ Additionally, I contribute to **AnalogJs**, a framework designed to simplify and
 
 --- 
 
+## 🌍 Angular Toronto Meetup
+
+I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/angulartoronto/), where we bring together developers, enthusiasts, and experts to share knowledge, best practices, and the latest advancements in the Angular ecosystem. Through talks, workshops, and community-driven discussions, I aim to foster a collaborative environment for continuous learning and growth in Angular development. Whether you’re a seasoned pro or just starting with Angular, the Toronto Meetup is a great place to connect and contribute!
+
+---
+
 ## 🎙️ Podcasts
 
 ### [Angular Catchup](https://angular-catch-up.podbean.com/)

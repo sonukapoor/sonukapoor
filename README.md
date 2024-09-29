@@ -40,7 +40,7 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
-- [Angular SSR Deep Dive with Jessica Janiuk](https://angular-catch-up.podbean.com/e/angular-catch-up-episode-4-a-fresh-take-on-the-future-of-ssr/)
+- [Angular SSR Deep Dive with Jessica Janiuk](https://angular-catch-up.podbean.com/e/angular-catch-up-episode-4-a-fresh-take-on-the-future-of-ssr/)  
   In this fantastic episode, we had the pleasure of hosting Jessica Janiuk from the Angular Team! We explored all things SSR and Hydration in Angular, uncover best practices, tackle the challenges of scaling SSR applications, AnalogJS support and more!
 
 - [Unpacking SignalStore - The Future of Reactive State Management in Angular](https://angular-catch-up.podbean.com/e/unpacking-signalstore-the-future-of-reactive-state-management-in-angular/)  
@@ -61,6 +61,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 ## ✍️ Articles
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
+
+- _Coming soon: Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators_  
+  In this article, we’ll dive into several advanced techniques for optimizing Angular Reactive Forms, focusing on performance improvements through lazy validation, async validators, and other form-handling strategies that help keep your applications responsive and efficient.
 
 - _Coming soon: The Myth of 'Fix Later': Why Writing the Best Code Now is Essential_  
   In this article, we explore how the pressure to meet deadlines leads to shortcuts like "TODO" comments, which may seem harmless but can have long-term negative effects on the project and team.

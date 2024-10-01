@@ -68,7 +68,7 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 - _Coming soon: The Myth of 'Fix Later': Why Writing the Best Code Now is Essential_  
   In this article, we explore how the pressure to meet deadlines leads to shortcuts like "TODO" comments, which may seem harmless but can have long-term negative effects on the project and team.
 
-- _Coming soon: Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations_  
+- [Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations](https://dev.to/this-is-angular/custom-validators-with-controlvalueaccessor-in-angular-ensuring-robust-form-validations-4jgj)  
   This article expands on managing the disabled property with ControlValueAccessor by exploring custom validators for Angular Reactive Forms to enhance flexibility and security.
 
 - 📝 [Mastering Angular: Dynamic Disabled States with Reactive Forms and ControlValueAccessor](https://dev.to/this-is-angular/mastering-angular-dynamic-disabled-states-with-reactive-forms-and-controlvalueaccessor-3nfj)  

@@ -62,13 +62,13 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
-- _Coming soon: Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators_  
+- 📝 _Coming soon: Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators_  
   In this article, we’ll dive into several advanced techniques for optimizing Angular Reactive Forms, focusing on performance improvements through lazy validation, async validators, and other form-handling strategies that help keep your applications responsive and efficient.
 
-- _Coming soon: The Myth of 'Fix Later': Why Writing the Best Code Now is Essential_  
+- 📝 _Coming soon: The Myth of 'Fix Later': Why Writing the Best Code Now is Essential_  
   In this article, we explore how the pressure to meet deadlines leads to shortcuts like "TODO" comments, which may seem harmless but can have long-term negative effects on the project and team.
 
-- [Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations](https://dev.to/this-is-angular/custom-validators-with-controlvalueaccessor-in-angular-ensuring-robust-form-validations-4jgj)  
+- 📝 [Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations](https://dev.to/this-is-angular/custom-validators-with-controlvalueaccessor-in-angular-ensuring-robust-form-validations-4jgj)  
   This article expands on managing the disabled property with ControlValueAccessor by exploring custom validators for Angular Reactive Forms to enhance flexibility and security.
 
 - 📝 [Mastering Angular: Dynamic Disabled States with Reactive Forms and ControlValueAccessor](https://dev.to/this-is-angular/mastering-angular-dynamic-disabled-states-with-reactive-forms-and-controlvalueaccessor-3nfj)  

@@ -98,10 +98,14 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
 
+- 🎙️ [Enhancing Angular Apps: Pro Tips for Peak Performance at the Internation Javascript Conference in New York](https://javascript-conference.com/new-york)  
+    Leveraging Angular’s Latest Features for Faster Image Optimization
+
 - 🎙️ [NgOptimizedImage - Enhancing Performance and User Experience in Angular at Angular Tiny Conf](https://www.youtube.com/watch?v=nVcerb1tOUA&t=8299s)  
     Focused on the latest features of Angular and how to improve image handling to make apps faster.
 
 - 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at Angular Air](https://www.youtube.com/watch?v=0Caspwa_8LI)
+    Shared performance tips, from lazy loading to using CDNs, and optimizing complex apps.
 
 - 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at This is Meetup](https://www.youtube.com/watch?v=6etUQOPe7nU)  
   Shared performance tips, from lazy loading to using CDNs, and optimizing complex apps.

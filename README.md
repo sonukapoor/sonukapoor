@@ -65,7 +65,7 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 - 📝 _Coming soon: Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators_  
   In this article, we’ll dive into several advanced techniques for optimizing Angular Reactive Forms, focusing on performance improvements through lazy validation, async validators, and other form-handling strategies that help keep your applications responsive and efficient.
 
-- 📝 _Coming soon: The Myth of 'Fix Later': Why Writing the Best Code Now is Essential_  
+- 📝 [The Myth of 'Fix Later': Why Writing the Best Code Now is Essential](https://dev.to/this-is-learning/the-myth-of-fix-later-why-writing-the-best-code-now-is-essential-4p71)  
   In this article, we explore how the pressure to meet deadlines leads to shortcuts like "TODO" comments, which may seem harmless but can have long-term negative effects on the project and team.
 
 - 📝 [Custom Validators with ControlValueAccessor in Angular: Ensuring Robust Form Validations](https://dev.to/this-is-angular/custom-validators-with-controlvalueaccessor-in-angular-ensuring-robust-form-validations-4jgj)  
@@ -98,13 +98,15 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
 
-- 🎙️ [Enhancing Angular Apps: Pro Tips for Peak Performance at the International Javascript Conference in New York](https://javascript-conference.com/new-york)  
+- 🎙️ _Coming Soon:_ Boosting performance using the latest Angular features with Jarosław Żołnowski on Angular Air  
+
+- 🎙️ [Enhancing Angular Apps: Pro Tips for Peak Performance at the International Javascript Conference in New York](https://javascript-conference.com/new-york) | [Profile](https://javascript-conference.com/speaker/sonu-kapoor/)  
     Leveraging Angular’s Latest Features for Faster Image Optimization
 
-- 🎙️ [NgOptimizedImage - Enhancing Performance and User Experience in Angular at Angular Tiny Conf](https://www.youtube.com/watch?v=nVcerb1tOUA&t=8299s)  
+- 🎙️ [NgOptimizedImage - Enhancing Performance and User Experience in Angular at Angular Tiny Conf](https://www.youtube.com/watch?v=nVcerb1tOUA&t=8299s) | [Profile](https://sessionize.com/sonu-kapoor)  
     Focused on the latest features of Angular and how to improve image handling to make apps faster.
 
-- 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at Angular Air](https://www.youtube.com/watch?v=0Caspwa_8LI)
+- 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at Angular Air](https://www.youtube.com/watch?v=0Caspwa_8LI)  
     Shared performance tips, from lazy loading to using CDNs, and optimizing complex apps.
 
 - 🎙️ [Optimizing Angular Applications - Techniques for Performance Excellence at This is Meetup](https://www.youtube.com/watch?v=6etUQOPe7nU)  

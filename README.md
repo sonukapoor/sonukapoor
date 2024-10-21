@@ -8,6 +8,14 @@ I also have a strong presence in the **community** through podcasts, articles, m
 
 --- 
 
+## Google Developer Expert (GDE) in Angular
+
+I am honored to have been recognized as a **Google Developer Expert (GDE) in Angular**. This award is a testament to my contributions to the Angular community, my expertise in Angular development, and my passion for helping others grow in the field. 
+
+As a GDE, I continue to share knowledge through technical talks, articles, and community involvement, always striving to push the boundaries of what can be achieved with Angular.
+
+---
+
 ## 🏆 MVP Award Recipient
 
 I am honored to have received the **MVP (Most Valuable Professional) Award** seven times for my contributions to the **developer community**. This recognition reflects my ongoing commitment to sharing knowledge, mentoring fellow developers, and advancing open-source projects, particularly within the **Angular** ecosystem. After a decade-long gap, receiving the award again reaffirms my passion for technology and the community.

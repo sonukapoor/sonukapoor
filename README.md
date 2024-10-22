@@ -8,7 +8,7 @@ I also have a strong presence in the **community** through podcasts, articles, m
 
 --- 
 
-## Google Developer Expert (GDE) in Angular
+## 🏆 Google Developer Expert (GDE) in Angular
 
 I am honored to have been recognized as a **Google Developer Expert (GDE) in Angular**. This award is a testament to my contributions to the Angular community, my expertise in Angular development, and my passion for helping others grow in the field. 
 

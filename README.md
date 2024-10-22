@@ -106,7 +106,8 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
 
-- 🎙️ _Coming Soon:_ Boosting performance using the latest Angular features with Jarosław Żołnowski on Angular Air  
+- 🎙️ [Boosting performance using the latest Angular features with Jarosław Żołnowski on Angular Air](https://www.youtube.com/live/YOLg8dZzsuQ?si=GAeK8aTazlh8Gytk)  
+     In this episode, Sonu And Jarek dive deep into the intricacies of optimizing Angular applications for peak performance. Whether you're a seasoned Angular developer or just starting, their expert advice will equip you with the knowledge to build high-performing applications.  
 
 - 🎙️ [Enhancing Angular Apps: Pro Tips for Peak Performance at the International Javascript Conference in New York](https://javascript-conference.com/new-york) | [Profile](https://javascript-conference.com/speaker/sonu-kapoor/)  
     Leveraging Angular’s Latest Features for Faster Image Optimization

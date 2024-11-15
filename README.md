@@ -64,6 +64,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
+- [SSR in Angular v19 - A New Era of Performance with Alan Agius](https://angular-catch-up.podbean.com/e/ssr-in-angular-v19-a-new-era-of-performance/)  
+  In this episode, we’re diving deep into Angular v19 and its powerful new SSR features! Special guest Alan Agius from the Angular Team joins us to unpack how these updates will elevate app performance, SEO, and user experience. Get the inside scoop on what’s rolling out in November and why it matters for Angular developers everywhere. Don’t miss this exclusive preview of Angular’s latest innovations!
+
 - [Angular SSR Deep Dive with Jessica Janiuk](https://angular-catch-up.podbean.com/e/angular-catch-up-episode-4-a-fresh-take-on-the-future-of-ssr/)  
   In this fantastic episode, we had the pleasure of hosting Jessica Janiuk from the Angular Team! We explored all things SSR and Hydration in Angular, uncover best practices, tackle the challenges of scaling SSR applications, AnalogJS support and more!
 

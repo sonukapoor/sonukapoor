@@ -22,6 +22,22 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
 
 ---
 
+## 📚 Co-Author of AI-Powered App Development: Leveraging Angular, Python, and Google AI
+
+<table>
+  <tr>
+    <td>
+      <a href='https://www.amazon.com/Powered-App-Development-Leveraging-Practical-ebook/dp/B0DMWVCDHZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr='><img src='https://github.com/user-attachments/assets/baba8150-9c0b-42ff-88f7-c3c4c7c0ba2b' /></a>
+    </td>
+    <td>
+      Together with Muhammad Awais and Lars Gyrup Brink Nielsen, I co-authored this practical guide to building cutting-edge applications using Angular, Python, and Google AI. This book offers hands-on insights into creating AI-driven solutions that seamlessly integrate into modern web and mobile applications. Whether you're an experienced developer or just starting your journey in AI and app development, this book provides actionable techniques and real-world examples to supercharge your projects. <br/>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## 🗣️ Top Voice in Web Development
 
 I am proud to be recognized as a **Top Voice in Web Development** on LinkedIn, where I actively share insights, tips, and industry trends with a growing audience. My posts aim to inspire and educate fellow developers, fostering a vibrant community that thrives on collaboration and continuous learning.

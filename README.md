@@ -89,6 +89,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Dynamic Forms in Angular 19: Creating Flexible and Scalable User Interfaces with Standalone Components](https://dev.to/this-is-angular/dynamic-forms-in-angular-creating-flexible-and-scalable-user-interfaces-2hob)  
+  In this article, I provide simple examples on building dynamic forms using Angular 19's standalone components.
+
 - 📝 [Optimizing Angular Reactive Forms: Enhancing Performance with Lazy Validation and Async Validators](https://dev.to/this-is-angular/optimizing-angular-reactive-forms-enhancing-performance-with-lazy-validation-and-async-validators-5c40)  
   In this article, we’ll dive into several advanced techniques for optimizing Angular Reactive Forms, focusing on performance improvements through lazy validation, async validators, and other form-handling strategies that help keep your applications responsive and efficient.
 

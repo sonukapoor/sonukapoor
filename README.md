@@ -64,6 +64,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
+- [Angular v19 - Advanced Features with Minko Gechev](https://angular-catch-up.podbean.com/e/angular-v19-advanced-features-with-minko-gechev/)  
+  Partial Hydration, Reactivity, enhanced Security, HMR and more – Angular v19 is a game-changer.🔥 In this episode, we go straight to the source, talking with Angular expert Minko Gechev to unpack everything you need to know about the latest release. 🚀  Get ready for practical tips, behind-the-scenes stories, and a look into the future of Angular. Stay ahead in the Angular game - tune in now!
+
 - [SSR in Angular v19 - A New Era of Performance with Alan Agius](https://angular-catch-up.podbean.com/e/ssr-in-angular-v19-a-new-era-of-performance/)  
   In this episode, we’re diving deep into Angular v19 and its powerful new SSR features! Special guest Alan Agius from the Angular Team joins us to unpack how these updates will elevate app performance, SEO, and user experience. Get the inside scoop on what’s rolling out in November and why it matters for Angular developers everywhere. Don’t miss this exclusive preview of Angular’s latest innovations!
 

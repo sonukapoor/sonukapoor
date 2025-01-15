@@ -92,6 +92,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://playfulprogramming.com/posts/mastering-angular-unit-testing)
+  In this article, you will learn: Mocking SIFERS, Angular Testing Library (ATL), Testing methods & best practices.
+
 - 📝 [Dynamic Forms in Angular 19: Creating Flexible and Scalable User Interfaces with Standalone Components](https://dev.to/this-is-angular/dynamic-forms-in-angular-creating-flexible-and-scalable-user-interfaces-2hob)  
   In this article, I provide simple examples on building dynamic forms using Angular 19's standalone components.
 

@@ -92,6 +92,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Getting Started with Firebase and Angular in idx.dev](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)
+  This is a series designed to guide you through creating a real-time, serverless application from scratch while leveraging the seamless integration of Firebase and Angular.
+
 - 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://playfulprogramming.com/posts/mastering-angular-unit-testing)
   In this article, you will learn: Mocking SIFERS, Angular Testing Library (ATL), Testing methods & best practices.
 

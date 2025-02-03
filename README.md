@@ -14,11 +14,15 @@ I am honored to have been recognized as a **Google Developer Expert (GDE) in Ang
 
 As a GDE, I continue to share knowledge through technical talks, articles, and community involvement, always striving to push the boundaries of what can be achieved with Angular.
 
+[GDE Profile](https://developers.google.com/profile/u/sonukapoor)
+
 ---
 
 ## 🏆 MVP Award Recipient
 
 I am honored to have received the **MVP (Most Valuable Professional) Award** seven times for my contributions to the **developer community**. This recognition reflects my ongoing commitment to sharing knowledge, mentoring fellow developers, and advancing open-source projects, particularly within the **Angular** ecosystem. After a decade-long gap, receiving the award again reaffirms my passion for technology and the community.
+
+[MVP Profile](https://mvp.microsoft.com/en-US/MVP/profile/afa53cbe-8749-4273-a726-c850c4a95fe8)
 
 ---
 

@@ -39,6 +39,20 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
   </tr>
 </table>
 
+---
+
+## 📖 Upcoming Book – *JavaScript Syntax for Beginners* (Apress)
+
+I'm currently writing **[*JavaScript Syntax for Beginners*](#)**, published by **Apress**, to provide a **clear, structured, and hands-on approach** to learning JavaScript. This book is designed for **absolute beginners**, covering **core JavaScript concepts, syntax, and best practices** while emphasizing **why understanding HTML is crucial to mastering JavaScript**.  
+
+#### What to Expect:  
+✅ **Step-by-step explanations** of JavaScript fundamentals  
+✅ **Practical examples and exercises** to reinforce learning  
+✅ **A strong foundation** in JavaScript, preparing readers for modern frameworks like Angular and React  
+
+This book is not just about learning JavaScript—it’s about **understanding it deeply**, so you can write **clean, efficient, and maintainable code** from day one.  
+
+🚀 **Stay tuned for the release!**
 
 ---
 
@@ -54,7 +68,23 @@ I am actively involved in the open-source community, particularly with contribut
 
 Additionally, I contribute to **AnalogJs**, a framework designed to simplify and streamline server-rendered applications, helping developers create high-performance web experiences with ease. My commitment to open-source reflects my passion for collaboration and continuous improvement in the developer ecosystem.
 
---- 
+---
+
+## 🚀 NGX-Layout – Bringing Back the Power of Angular FlexLayout  
+
+I'm a **core contributor** to **[NGX-Layout](https://github.com/ngx-layout)**, the **modern replacement for Angular FlexLayout**, which was deprecated. NGX-Layout provides a powerful, responsive grid and layout system for Angular applications, making it easier to build **flexible, adaptive UIs** without the complexity of writing custom CSS.  
+
+#### Why NGX-Layout?  
+- **One-to-one replacement** for Angular FlexLayout  
+- **Fully maintained and updated** for the latest Angular versions  
+- **Powerful API** for building responsive UIs with ease  
+- **Community-driven** – built by Angular developers, for Angular developers  
+
+I'm actively involved in improving **performance, API design, and documentation** to make NGX-Layout the **go-to solution** for responsive layouts in Angular.  
+
+🚀 **Check it out:** [NGX-Layout GitHub](https://github.com/ngbracket/ngx-layout)  
+
+---
 
 ## 🌍 Angular Toronto Meetup
 

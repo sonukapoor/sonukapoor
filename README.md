@@ -43,7 +43,7 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
 
 ## 📖 Upcoming Book – *JavaScript Syntax for Beginners* (Apress)
 
-I'm currently writing **[*JavaScript Syntax for Beginners*](#)**, published by **Apress**, to provide a **clear, structured, and hands-on approach** to learning JavaScript. This book is designed for **absolute beginners**, covering **core JavaScript concepts, syntax, and best practices** while emphasizing **why understanding HTML is crucial to mastering JavaScript**.  
+I'm currently writing **JavaScript Syntax for Beginners**, published by **Apress**, to provide a **clear, structured, and hands-on approach** to learning JavaScript. This book is designed for **absolute beginners**, covering **core JavaScript concepts, syntax, and best practices** while emphasizing **why understanding HTML is crucial to mastering JavaScript**.  
 
 #### What to Expect:  
 ✅ **Step-by-step explanations** of JavaScript fundamentals  

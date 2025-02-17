@@ -39,7 +39,7 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
   </tr>
 </table>
 
-[Order here](https://www.amazon.com/Powered-App-Development-Leveraging-Practical-ebook/dp/B0DMWVCDHZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+[Order Kindle Version here](https://www.amazon.com/Powered-App-Development-Leveraging-Practical-ebook/dp/B0DMWVCDHZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | [Order Paperback Version here](https://www.amazon.com/Powered-App-Development-Leveraging-Practical/dp/B0DMZ5NQNZ/ref=tmm_pap_swatch_0)
 
 ---
 

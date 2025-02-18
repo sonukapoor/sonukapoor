@@ -70,10 +70,6 @@ I am proud to be recognized as a **Top Voice in Web Development** on LinkedIn, w
 
 I am actively involved in the open-source community, particularly with contributions to **Angular**, where I co-authored features like Typed Forms, enhancing developer experiences and application robustness. In fact, I am in the top 100 list of contributors with over [100 pull requests](https://github.com/angular/angular/commits?author=sonukapoor). 
 
-### NGX-Layout (Flex Layout)
-
-Additionally, I am a core contributor to [ngx-layout](https://github.com/ngbracket/ngx-layout), an advanced layout management library for Angular applications, with over 20K daily downloads. ngx-layout provides powerful, declarative APIs for responsive design, dynamic grid layouts, and adaptive UI strategies, making it easier to build flexible, high-performance applications. My contributions focus on enhancing the library’s functionality, optimizing performance, and ensuring seamless integration with modern Angular features.
-
 ---
 
 ## 🚀 NGX-Layout – Bringing Back the Power of Angular FlexLayout  

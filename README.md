@@ -128,10 +128,13 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
-- 📝 [Getting Started with Firebase and Angular in idx.dev](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)
+- 📝 [Understanding Angular Ahead-of-Time (AOT) Compilation](https://dev.to/this-is-angular/understanding-angular-ahead-of-time-aot-compilation-2m7p)  
+  This article explores the mechanics of AOT compilation, its benefits, its differences from Just-in-Time (JIT) compilation, best practices for implementation, common pitfalls, and debugging strategies. Additionally, it delves into AOT’s impact on large-scale applications and enterprise environments, as well as the evolution of the Angular compiler from Angular 2 to the present.
+
+- 📝 [Getting Started with Firebase and Angular in idx.dev](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)  
   This is a series designed to guide you through creating a real-time, serverless application from scratch while leveraging the seamless integration of Firebase and Angular.
 
-- 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://playfulprogramming.com/posts/mastering-angular-unit-testing)
+- 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://playfulprogramming.com/posts/mastering-angular-unit-testing)  
   In this article, you will learn: Mocking SIFERS, Angular Testing Library (ATL), Testing methods & best practices.
 
 - 📝 [Dynamic Forms in Angular 19: Creating Flexible and Scalable User Interfaces with Standalone Components](https://dev.to/this-is-angular/dynamic-forms-in-angular-creating-flexible-and-scalable-user-interfaces-2hob)  

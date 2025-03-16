@@ -100,6 +100,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
+- [Testing Done Right: Where to Start, What to Use, and What’s Next with Rainer Hahnekamp](https://angular-catch-up.podbean.com/e/testing-done-right-where-to-start-what-to-use-and-what-s-next/)  
+  If you’ve ever battled flaky tests, unclear coverage, or maintenance nightmares - this episode is for you. We’re breaking down common challenges, what "Testing Done Right" really means, how to write tests that add value, what’s the future of testing, and more!
+
 - [Angular v19 - Advanced Features with Minko Gechev](https://angular-catch-up.podbean.com/e/angular-v19-advanced-features-with-minko-gechev/)  
   Partial Hydration, Reactivity, enhanced Security, HMR and more – Angular v19 is a game-changer.🔥 In this episode, we go straight to the source, talking with Angular expert Minko Gechev to unpack everything you need to know about the latest release. 🚀  Get ready for practical tips, behind-the-scenes stories, and a look into the future of Angular. Stay ahead in the Angular game - tune in now!
 
@@ -127,6 +130,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 ## ✍️ Articles
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
+
+- 📝 [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86)  
+  Tree shaking is a powerful optimization technique that helps reduce the size of JavaScript bundles by eliminating dead code — parts of the code that are never used or executed. This results in smaller, faster, and more efficient web applications. In this article, we'll dive deep into what tree shaking is, how it works, its benefits, and how you can implement it in your projects.
 
 - 📝 [Understanding Angular Ahead-of-Time (AOT) Compilation](https://dev.to/this-is-angular/understanding-angular-ahead-of-time-aot-compilation-2m7p)  
   This article explores the mechanics of AOT compilation, its benefits, its differences from Just-in-Time (JIT) compilation, best practices for implementation, common pitfalls, and debugging strategies. Additionally, it delves into AOT’s impact on large-scale applications and enterprise environments, as well as the evolution of the Angular compiler from Angular 2 to the present.

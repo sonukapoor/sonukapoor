@@ -178,9 +178,12 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 ---
 
-## 🎤 Talks & Presentations
+## 🎤 Talks / Presentations / Interviews
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
+
+- 🎙️ [MVPbuzzChat with Sonu Kapoor](https://www.youtube.com/watch?v=Vcuaxg1A_7M)
+     An informal conversation between Microsoft Regional Director and MVP Christian Buckley (@buckleyplanet), and Developer Technologies MVP Sonu Kapoor (@SonuKapoor1978), a Senior Angular Consultant and Architect, based in Toronto, Canada.
 
 - 🎙️ [Boosting performance using the latest Angular features with Jarosław Żołnowski on Angular Air](https://www.youtube.com/live/YOLg8dZzsuQ?si=GAeK8aTazlh8Gytk)  
      In this episode, Sonu And Jarek dive deep into the intricacies of optimizing Angular applications for peak performance. Whether you're a seasoned Angular developer or just starting, their expert advice will equip you with the knowledge to build high-performing applications.  
@@ -232,6 +235,10 @@ I’m also the **Founder and Co-host** of **This_IsMeetup**, a monthly online ev
 We are always looking for speakers. Whether you are a seasoned speaker or just starting out, we want to hear from you. Connect with me over LinkedIn, and let's make it happen!
 
 ---
+
+## Others
+
+- [ORCID](https://orcid.org/0009-0009-6074-6238)
 
 ### 🎤 Available for Speaking Engagements
 

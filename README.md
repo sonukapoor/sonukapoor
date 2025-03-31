@@ -134,6 +134,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Dynamically Configuring the Swagger-Generated API Base Path in Angular](https://dev.to/this-is-angular/dynamically-configuring-the-swagger-generated-api-base-path-in-angular-5980)  
+  In this article, we’ll explore how to inject the basePath dynamically without modifying the generated files. We'll also ensure that it works seamlessly in both NgModules and Standalone Components.
+  
 - 📝 [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86)  
   Tree shaking is a powerful optimization technique that helps reduce the size of JavaScript bundles by eliminating dead code — parts of the code that are never used or executed. This results in smaller, faster, and more efficient web applications. In this article, we'll dive deep into what tree shaking is, how it works, its benefits, and how you can implement it in your projects.
 

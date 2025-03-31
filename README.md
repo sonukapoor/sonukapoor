@@ -100,6 +100,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 🎧 **Co-founder and co-host of Angular Catchup** - A podcast where I dive into all things Angular, web development, and performance optimization. I’ve had the privilege of interviewing renowned experts such as **Minko Gechev**, **Filip Rakowski**, and **Jessica Janiuk**.
 
+- [httpResource in Angular - The Future of API Communication](https://angular-catch-up.podbean.com/e/httpresource-in-angular-the-future-of-api-communication/)  
+  Ready to understand httpResource inside and out? We're thrilled to have Alex Rickabaugh from the Angular team join us to explore this game-changing feature. 🚀 Discover how it streamlines API interactions, enhances type safety, and brings a more declarative, efficient approach to data fetching. Expect expert insights, pro tips, technical nuances, and a look at what’s ahead on the roadmap. Don't miss it - tune in and stay ahead of the game! 🎧
+  
 - [Testing Done Right: Where to Start, What to Use, and What’s Next with Rainer Hahnekamp](https://angular-catch-up.podbean.com/e/testing-done-right-where-to-start-what-to-use-and-what-s-next/)  
   If you’ve ever battled flaky tests, unclear coverage, or maintenance nightmares - this episode is for you. We’re breaking down common challenges, what "Testing Done Right" really means, how to write tests that add value, what’s the future of testing, and more!
 

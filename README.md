@@ -176,9 +176,6 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 - 📝 [Streamlining Communication: New Signals API in Angular 17.3](https://dev.to/this-is-angular/streamlining-communication-new-signals-api-in-angular-173-2935)  
    Introduces the new Signals API, explaining how to streamline communication between components in Angular applications.
 
-- 📝 [Testing Animations in Angular: A Comprehensive Guide](https://dev.to/this-is-angular/testing-animations-in-angular-a-comprehensive-guide-14fg)  
-   A guide to testing Angular animations to ensure a smooth and bug-free user experience.
-
 - 📝 [Mastering Angular Unit Testing: Best Practices and Tools](https://dev.to/this-is-angular/unit-testing-in-angular-170l)  
    A comprehensive guide to writing unit tests for Angular applications, emphasizing best practices and useful tools for more maintainable and reliable code.
 

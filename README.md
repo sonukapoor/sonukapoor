@@ -30,7 +30,7 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
 
 <table>
   <tr>
-    <td>
+    <td width="200">
       <a href='https://www.amazon.com/Powered-App-Development-Leveraging-Practical-ebook/dp/B0DMWVCDHZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr='><img src='https://github.com/user-attachments/assets/baba8150-9c0b-42ff-88f7-c3c4c7c0ba2b' /></a>
     </td>
     <td>
@@ -45,7 +45,13 @@ I am honored to have received the **MVP (Most Valuable Professional) Award** sev
 
 ## 📖 Upcoming Book – *JavaScript Syntax for Beginners* (Apress)
 
-I'm currently writing **JavaScript Syntax for Beginners**, published by **Apress**, to provide a **clear, structured, and hands-on approach** to learning JavaScript. This book is designed for **absolute beginners**, covering **core JavaScript concepts, syntax, and best practices** while emphasizing **why understanding HTML is crucial to mastering JavaScript**.  
+<table>
+  <tr>
+    <td width="200">
+      <a href='https://www.amazon.com/Beginning-JavaScript-Syntax-Understanding-Syntactical/dp/B0DZGYN99K/ref=sr_1_1?crid=5CF8YSEDYE3Q&dib=eyJ2IjoiMSJ9.Tm5ON6d6PiiTZL2Tri2kAYn3577h4WmeM8h_pPoeH3I.M-2HRM-lq3SGKanSQPuW4IEUn3s_wr3Oao_rT1RVhLI&dib_tag=se&keywords=sonu+kapoor+javascript+syntax&qid=1744001297&sprefix=sonu+kapoor+javascript+synta%2Caps%2C283&sr=8-1&dplnkId=a5eb2f8e-30d5-4847-bedb-4238be3d1a8c&nodl=1'><img src='https://m.media-amazon.com/images/I/61la1zesmDL._SY522_.jpg' /></a>
+    </td>
+    <td>
+JavaScript Syntax for Beginners, published by Apress, provides a clear, structured, and hands-on approach to learning JavaScript. This book is designed for absolute beginners, covering core JavaScript concepts, syntax, and best practices while emphasizing why understanding HTML is crucial to mastering JavaScript.  
 
 #### What to Expect:  
 ✅ **Step-by-step explanations** of JavaScript fundamentals  
@@ -54,7 +60,10 @@ I'm currently writing **JavaScript Syntax for Beginners**, published by **Apress
 
 This book is not just about learning JavaScript—it’s about **understanding it deeply**, so you can write **clean, efficient, and maintainable code** from day one.  
 
-🚀 **Stay tuned for the release!**
+🚀 **Releasing in May 2025**
+    </td>
+  </tr>
+</table>
 
 ---
 

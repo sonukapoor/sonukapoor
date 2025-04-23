@@ -134,6 +134,9 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [You’re Using NgRx Wrong: Real Mistakes That Cost Teams Weeks](https://medium.com/javascript-in-plain-english/youre-using-ngrx-wrong-real-mistakes-that-cost-teams-weeks-7b83cc03e586)  
+  NgRx is a powerful state management library for Angular applications, providing a clear, scalable architecture for handling complex state. However, developers often run into serious issues due to misunderstandings of its core patterns. These pitfalls can lead to performance bottlenecks, unnecessary re-renders, and overly complex code that becomes difficult to maintain. In this article, we will explore common mistakes developers make when working with NgRx and how to avoid them with real-world examples.
+
 - 📝 [Dynamically Configuring the Swagger-Generated API Base Path in Angular](https://dev.to/this-is-angular/dynamically-configuring-the-swagger-generated-api-base-path-in-angular-5980)  
   In this article, we’ll explore how to inject the basePath dynamically without modifying the generated files. We'll also ensure that it works seamlessly in both NgModules and Standalone Components.
   
@@ -185,6 +188,9 @@ I regularly write about **Angular**, **performance optimization**, and **JavaScr
 
 I’ve been fortunate to speak at **international conferences** and **meetups**, discussing Angular, web performance, and scalable system design:
 
+- 🎙️ [Angular Spring Camp](https://www.youtube.com/watch?v=Ygnx8eH4acg)
+     In this presentation I dive into the performance of images and how to improve them using Angular.
+  
 - 🎙️ [MVPbuzzChat with Sonu Kapoor](https://www.youtube.com/watch?v=Vcuaxg1A_7M)
      An informal conversation between Microsoft Regional Director and MVP Christian Buckley (@buckleyplanet), and Developer Technologies MVP Sonu Kapoor (@SonuKapoor1978), a Senior Angular Consultant and Architect, based in Toronto, Canada.
 

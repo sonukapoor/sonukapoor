@@ -143,6 +143,12 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Unlocking Angular Performance: Optimization Techniques](https://www.codemag.com/Article/2507061/Unlocking-Angular-Performance-Optimization-Techniques)  
+  This article outlines six essential strategies to enhance the speed and responsiveness of Angular applications: image optimization, routing, deferrable views, change detection optimization, employing the async pipe, and using the trackBy function. He emphasizes the significant impact these techniques can have on mitigating common bottlenecks through real-world examples and empirical data. By strategically implementing these methods, developers can effectively reduce unnecessary re-renders, optimize bundle sizes, and ultimately improve the user experience in both small and large-scale Angular projects. 
+
+- 📝 [Angular Signals: A New Mental Model for Reactivity, Not Just a New API](https://www.sitepoint.com/angular-signals-a-new-mental-model/)  
+  Angular Signals are not just another feature. They represent a different way to think about data flow. If you’re coming from RxJS or standard @Input() / @Output() bindings, you might think of Signals as a simpler syntax for observable values. However, that’s like saying a violin is just a smaller cello. The shape of the instrument affects the kind of music you create. 
+
 - 📝 [You’re Using NgRx Wrong: Real Mistakes That Cost Teams Weeks](https://medium.com/javascript-in-plain-english/youre-using-ngrx-wrong-real-mistakes-that-cost-teams-weeks-7b83cc03e586)  
   NgRx is a powerful state management library for Angular applications, providing a clear, scalable architecture for handling complex state. However, developers often run into serious issues due to misunderstandings of its core patterns. These pitfalls can lead to performance bottlenecks, unnecessary re-renders, and overly complex code that becomes difficult to maintain. In this article, we will explore common mistakes developers make when working with NgRx and how to avoid them with real-world examples.
 

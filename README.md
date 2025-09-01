@@ -143,6 +143,12 @@ I’m also the organizer of the [Angular Toronto Meetup](https://www.meetup.com/
 
 I regularly write about **Angular**, **performance optimization**, and **JavaScript** best practices. 
 
+- 📝 [Angular Signals: The End of RxJS Boilerplate?](https://www.codemag.com/Article/2509051/Angular-Signals-The-End-of-RxJS-Boilerplate)  
+  In this article, I'll take a deep dive into Angular Signals, not merely as a new API, but as a new way of thinking about building applications. I'll explore their core primitives, signal(), computed(), and effect(), and understand how they seamlessly fit into Angular's vision for a zoneless, standalone component-driven future. I'll introduce the concept of LinkedSignal, a powerful feature that dramatically improves component-to-component reactivity without the tedious ceremony developers are used to.
+
+- 📝 [Beyond console.log: Smarter Debugging with Modern JavaScript Tooling](https://blog.appsignal.com/2025/07/09/beyond-console-log-smarter-debugging%20with-modern-javascript-tooling.html)  
+  In this article, we’ll look at smarter, scalable debugging strategies. We’ll explore structured logging, global error capture, breadcrumb trails, and real-time monitoring using tools like AppSignal, all without introducing a framework or rewriting your codebase.
+
 - 📝 [Unlocking Angular Performance: Optimization Techniques](https://www.codemag.com/Article/2507061/Unlocking-Angular-Performance-Optimization-Techniques)  
   This article outlines six essential strategies to enhance the speed and responsiveness of Angular applications: image optimization, routing, deferrable views, change detection optimization, employing the async pipe, and using the trackBy function. He emphasizes the significant impact these techniques can have on mitigating common bottlenecks through real-world examples and empirical data. By strategically implementing these methods, developers can effectively reduce unnecessary re-renders, optimize bundle sizes, and ultimately improve the user experience in both small and large-scale Angular projects. 
 

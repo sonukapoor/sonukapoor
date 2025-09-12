@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sonu Kapoor
 
+### Visit my website for all future updates: [https://sonukapoor.com](https://sonukapoor.com)
+
 ## 🚀 About Me
 
 I'm an accomplished **Full-Stack Developer** with a passion for **web technologies** and **performance optimization**. As a key contributor to the **Angular** ecosystem, I've co-authored Typed Forms, one of the most highly requested features in Angular, and have been an **invitation-only Angular Collaborator**. My technical writing on **.NET** and **Angular** has garnered **over a million views**, and I regularly share insights on **performance optimization**, **developer productivity**, and **advanced web application architectures**.

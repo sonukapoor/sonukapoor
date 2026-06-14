@@ -8,7 +8,24 @@ I'm an accomplished **Full-Stack Developer** with a passion for **web technologi
 
 I also have a strong presence in the **community** through podcasts, articles, meetups, and conference talks. My work has impacted thousands of developers, helping them improve their skills and stay updated with the latest advancements in web development.
 
---- 
+---
+
+## 🔐 CVE Lite CLI - OWASP Incubator Project
+
+I'm the creator of **[CVE Lite CLI](https://github.com/OWASP/cve-lite-cli)**, a fast, developer-friendly dependency vulnerability scanner for JavaScript and TypeScript projects, recognized as an **OWASP Incubator Project**.
+
+CVE Lite CLI scans your lockfiles locally, classifies findings as direct vs transitive, and gives you the exact command to fix each vulnerability - not just a list of CVE IDs.
+
+- Supports npm, pnpm, Yarn, and Bun
+- Offline scanning via a local advisory database
+- Copy-and-run fix commands for every finding
+- Featured in SecurityWeek, CSO Online, ReversingLabs, HackerNoon, and Help Net Security
+
+**Try it:** `npx cve-lite-cli .`
+
+[GitHub](https://github.com/OWASP/cve-lite-cli) | [Documentation](https://owasp.org/cve-lite-cli)
+
+---
 
 ## 🏆 Google Developer Expert (GDE) in Angular
 

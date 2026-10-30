@@ -10,20 +10,23 @@ I also have a strong presence in the **community** through podcasts, articles, m
 
 ---
 
-## 🔐 CVE Lite CLI - OWASP Incubator Project
+## 🔐 CVE Lite CLI - OWASP Lab Project
 
-I'm the creator of **[CVE Lite CLI](https://github.com/OWASP/cve-lite-cli)**, a fast, developer-friendly dependency vulnerability scanner for JavaScript and TypeScript projects, recognized as an **OWASP Incubator Project**.
+I'm the creator and lead of **[CVE Lite CLI](https://github.com/OWASP/cve-lite-cli)**, a fast, developer-friendly dependency vulnerability scanner for JavaScript and TypeScript projects. It started as an OWASP Incubator project and graduated to **OWASP Lab** status in June 2026.
 
 CVE Lite CLI scans your lockfiles locally, classifies findings as direct vs transitive, and gives you the exact command to fix each vulnerability - not just a list of CVE IDs.
 
 - Supports npm, pnpm, Yarn, and Bun
 - Offline scanning via a local advisory database
-- Copy-and-run fix commands for every finding
-- Featured in SecurityWeek, CSO Online, ReversingLabs, HackerNoon, and Help Net Security
+- Copy-and-run fix commands for every finding, including which parent to bump for transitive issues
+- Built for GitHub: an official [GitHub Action](https://github.com/marketplace/actions/cve-lite-cli), SARIF output for GitHub Code Scanning, and Sigstore-attested releases
+- Used in CI by projects including [SolidJS](https://github.com/solidjs/solid), [Valibot](https://github.com/fabian-hiller/valibot), [OWASP Nest](https://github.com/OWASP/Nest), and French and Canadian government teams ([who uses it](https://owasp.org/cve-lite-cli/who-uses))
+- 780+ stars, 180+ forks, and close to 150,000 npm downloads since March 2026, with a steady stream of first-time open source contributors
+- Featured on [GitHub Open Source Friday](https://www.youtube.com/watch?v=_Mmf3DLVuOQ), and covered by The Register, SecurityWeek, CSO Online, SD Times, InfoWorld, Help Net Security, ReversingLabs and Node Weekly
 
 **Try it:** `npx cve-lite-cli .`
 
-[GitHub](https://github.com/OWASP/cve-lite-cli) | [Documentation](https://owasp.org/cve-lite-cli)
+[GitHub](https://github.com/OWASP/cve-lite-cli) | [Documentation](https://owasp.org/cve-lite-cli) | [Node.js Security Starts Before CI (InfoWorld)](https://www.infoworld.com/article/4194530/node-js-security-starts-before-ci.html)
 
 ---
 
